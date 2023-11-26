@@ -24,3 +24,5 @@ react-router-dom is the DOM bindings for React Router, a library for handling ro
 react-redux is the official React binding for Redux, a state management library.It allows you to integrate Redux with React applications, making it easier to manage and access the global state in a predictable way.
 
 @reduxjs/toolkit is the official Redux toolkit that simplifies and streamlines the process of writing Redux logic. It provides utilities like `createSlice` for defining reducers and actions, helping developers write Redux code more efficiently.
+
+Live Demo: https://reactshopping-cart-redux.netlify.app/
